@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pusto-studio-test-assigment"
+version = "0.1.0"
+description = ""
+authors = ["cnwv <115669384+cnwv@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Django = "^5.1.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.8.0"
+django-debug-toolbar = "^4.4.6"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

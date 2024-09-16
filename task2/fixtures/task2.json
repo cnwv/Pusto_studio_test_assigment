@@ -1,0 +1,455 @@
+[
+{
+    "model": "task2.player",
+    "pk": 1,
+    "fields": {}
+},
+{
+    "model": "task2.player",
+    "pk": 2,
+    "fields": {}
+},
+{
+    "model": "task2.player",
+    "pk": 3,
+    "fields": {}
+},
+{
+    "model": "task2.player",
+    "pk": 4,
+    "fields": {}
+},
+{
+    "model": "task2.player",
+    "pk": 5,
+    "fields": {}
+},
+{
+    "model": "task2.player",
+    "pk": 6,
+    "fields": {}
+},
+{
+    "model": "task2.player",
+    "pk": 7,
+    "fields": {}
+},
+{
+    "model": "task2.player",
+    "pk": 8,
+    "fields": {}
+},
+{
+    "model": "task2.player",
+    "pk": 9,
+    "fields": {}
+},
+{
+    "model": "task2.level",
+    "pk": 1,
+    "fields": {
+        "title": "title",
+        "order": 1
+    }
+},
+{
+    "model": "task2.level",
+    "pk": 2,
+    "fields": {
+        "title": "title",
+        "order": 2
+    }
+},
+{
+    "model": "task2.level",
+    "pk": 3,
+    "fields": {
+        "title": "title",
+        "order": 3
+    }
+},
+{
+    "model": "task2.level",
+    "pk": 4,
+    "fields": {
+        "title": "title",
+        "order": 4
+    }
+},
+{
+    "model": "task2.level",
+    "pk": 5,
+    "fields": {
+        "title": "title",
+        "order": 5
+    }
+},
+{
+    "model": "task2.level",
+    "pk": 6,
+    "fields": {
+        "title": "title",
+        "order": 6
+    }
+},
+{
+    "model": "task2.level",
+    "pk": 7,
+    "fields": {
+        "title": "title",
+        "order": 7
+    }
+},
+{
+    "model": "task2.level",
+    "pk": 8,
+    "fields": {
+        "title": "title",
+        "order": 8
+    }
+},
+{
+    "model": "task2.level",
+    "pk": 9,
+    "fields": {
+        "title": "title",
+        "order": 9
+    }
+},
+{
+    "model": "task2.level",
+    "pk": 10,
+    "fields": {
+        "title": "title",
+        "order": 10
+    }
+},
+{
+    "model": "task2.level",
+    "pk": 11,
+    "fields": {
+        "title": "title",
+        "order": 11
+    }
+},
+{
+    "model": "task2.level",
+    "pk": 12,
+    "fields": {
+        "title": "title",
+        "order": 12
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 1,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 2,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 3,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 4,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 5,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 6,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 7,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 8,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 9,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 10,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 11,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.prize",
+    "pk": 12,
+    "fields": {
+        "title": "prize"
+    }
+},
+{
+    "model": "task2.playerlevel",
+    "pk": 1,
+    "fields": {
+        "player": 1,
+        "level": 1,
+        "completed": "2024-09-14",
+        "is_completed": true,
+        "score": 100
+    }
+},
+{
+    "model": "task2.playerlevel",
+    "pk": 2,
+    "fields": {
+        "player": 2,
+        "level": 1,
+        "completed": "2024-09-14",
+        "is_completed": true,
+        "score": 100
+    }
+},
+{
+    "model": "task2.playerlevel",
+    "pk": 3,
+    "fields": {
+        "player": 2,
+        "level": 2,
+        "completed": "2024-09-14",
+        "is_completed": true,
+        "score": 100
+    }
+},
+{
+    "model": "task2.playerlevel",
+    "pk": 4,
+    "fields": {
+        "player": 2,
+        "level": 3,
+        "completed": "2024-09-14",
+        "is_completed": true,
+        "score": 100
+    }
+},
+{
+    "model": "task2.playerlevel",
+    "pk": 5,
+    "fields": {
+        "player": 2,
+        "level": 4,
+        "completed": "2024-09-14",
+        "is_completed": true,
+        "score": 100
+    }
+},
+{
+    "model": "task2.playerlevel",
+    "pk": 6,
+    "fields": {
+        "player": 2,
+        "level": 5,
+        "completed": "2024-09-14",
+        "is_completed": true,
+        "score": 100
+    }
+},
+{
+    "model": "task2.playerlevel",
+    "pk": 7,
+    "fields": {
+        "player": 2,
+        "level": 6,
+        "completed": "2024-09-14",
+        "is_completed": true,
+        "score": 100
+    }
+},
+{
+    "model": "task2.levelprize",
+    "pk": 1,
+    "fields": {
+        "level": 1,
+        "prize": 1
+    }
+},
+{
+    "model": "task2.levelprize",
+    "pk": 2,
+    "fields": {
+        "level": 2,
+        "prize": 2
+    }
+},
+{
+    "model": "task2.levelprize",
+    "pk": 3,
+    "fields": {
+        "level": 3,
+        "prize": 4
+    }
+},
+{
+    "model": "task2.levelprize",
+    "pk": 4,
+    "fields": {
+        "level": 5,
+        "prize": 5
+    }
+},
+{
+    "model": "task2.levelprize",
+    "pk": 5,
+    "fields": {
+        "level": 6,
+        "prize": 6
+    }
+},
+{
+    "model": "task2.levelprize",
+    "pk": 6,
+    "fields": {
+        "level": 7,
+        "prize": 7
+    }
+},
+{
+    "model": "task2.levelprize",
+    "pk": 7,
+    "fields": {
+        "level": 8,
+        "prize": 8
+    }
+},
+{
+    "model": "task2.levelprize",
+    "pk": 8,
+    "fields": {
+        "level": 9,
+        "prize": 9
+    }
+},
+{
+    "model": "task2.levelprize",
+    "pk": 9,
+    "fields": {
+        "level": 10,
+        "prize": 10
+    }
+},
+{
+    "model": "task2.levelprize",
+    "pk": 10,
+    "fields": {
+        "level": 11,
+        "prize": 11
+    }
+},
+{
+    "model": "task2.levelprize",
+    "pk": 11,
+    "fields": {
+        "level": 12,
+        "prize": 12
+    }
+},
+{
+    "model": "task2.playerprize",
+    "pk": 1,
+    "fields": {
+        "player": 1,
+        "level": 1,
+        "received_at": "2024-09-14T22:41:24.410Z"
+    }
+},
+{
+    "model": "task2.playerprize",
+    "pk": 2,
+    "fields": {
+        "player": 2,
+        "level": 1,
+        "received_at": "2024-09-14T22:41:42.758Z"
+    }
+},
+{
+    "model": "task2.playerprize",
+    "pk": 3,
+    "fields": {
+        "player": 2,
+        "level": 2,
+        "received_at": "2024-09-14T22:43:46.336Z"
+    }
+},
+{
+    "model": "task2.playerprize",
+    "pk": 4,
+    "fields": {
+        "player": 2,
+        "level": 3,
+        "received_at": "2024-09-14T22:44:57.596Z"
+    }
+},
+{
+    "model": "task2.playerprize",
+    "pk": 5,
+    "fields": {
+        "player": 2,
+        "level": 4,
+        "received_at": "2024-09-14T22:45:55.412Z"
+    }
+},
+{
+    "model": "task2.playerprize",
+    "pk": 6,
+    "fields": {
+        "player": 2,
+        "level": 5,
+        "received_at": "2024-09-14T22:45:59.466Z"
+    }
+},
+{
+    "model": "task2.playerprize",
+    "pk": 7,
+    "fields": {
+        "player": 2,
+        "level": 6,
+        "received_at": "2024-09-14T23:06:59.080Z"
+    }
+}
+]
